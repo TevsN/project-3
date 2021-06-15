@@ -1,0 +1,9 @@
+td {
+    padding: 10px;
+    border: 1px solid;
+    vertical-align: middle;
+}
+
+/* td:nth-child(2n + 1) {
+    color: red;
+} */
